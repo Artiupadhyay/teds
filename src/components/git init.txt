@@ -1,0 +1,32 @@
+git init
+git add .
+git commit -m ""
+git push origin branchname
+git pull origin branchname
+git fetch origin branchname
+git rebase branchname
+git merge branchname
+git checkout -b branchname
+git checkout branchname
+strong for bold
+card fulll
+card half
+card full small
+
+Home Page 
+    1. header
+    2 div bnenge
+    body
+    
+    isme cardd waala hoga
+    footer
+    isme navbar jaisa hoga
+
+
+    body
+    1. Card Full COntain Code in html
+    2. Card Half Contain Code in html quantity pass data with props
+    3. Tell your stiry card contin html Code
+    4. Card with text  contain code and quantity 2
+    
+    

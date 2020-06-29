@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #ebeef3;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -25,7 +25,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #212222;
 }
 
 @keyframes App-logo-spin {
@@ -36,3 +36,38 @@
     transform: rotate(360deg);
   }
 }
+
+
+.header{
+	height:5rem;
+  background: #106a6ddc;
+  padding:1rem;
+  font-size: 18px;
+  display:flex; 
+}
+.logo{
+	display:inline-flex;
+	background-size: cover;
+	width:50px;
+  height:65px;
+  padding-bottom:1rem;
+	
+}
+.wrapper{
+  width:420px;
+
+}
+.card{
+  color:black;
+  margin-left:6rem;
+  margin-top:1.2rem;
+  margin-right:6rem;
+
+}
+.speak{
+  height:300px;
+  width:580px
+}
+
+
+
