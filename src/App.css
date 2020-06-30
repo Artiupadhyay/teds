@@ -54,20 +54,27 @@
 	
 }
 .wrapper{
-  width:420px;
+  width:540px;
+  height:320px;
 
 }
-.card{
-  color:black;
-  margin-left:6rem;
-  margin-top:1.2rem;
-  margin-right:6rem;
+.container{
+display:flex;
+flex-direction:row;
+display:block;
+margin-top:2rem;
 
 }
 .speak{
   height:300px;
-  width:580px
+  width:525px
 }
-
+.text{
+  width:70rem;
+  height:15rem;
+}
+.bd-highlight{
+  color:white;
+}
 
 
