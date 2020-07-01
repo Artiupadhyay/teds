@@ -12,17 +12,12 @@ function App() {
      <Card />
      <Footer/>
     
-    <div className="App">
     
-
-      <header className="App-header">
-  
-      </header>
     </div>
     
     
 
-    </div>);
+    );
 }
 
 export default App;
